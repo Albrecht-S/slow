@@ -1,0 +1,2 @@
+# slow
+Slowdown terminal input
